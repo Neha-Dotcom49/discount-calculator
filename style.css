@@ -1,0 +1,29 @@
+*{
+    font-family: 'Itim', cursive;
+    color: cadetblue; 
+    font-size: x-large;
+}
+body{
+    background-color : #f2f2f2
+
+}
+#btn{
+    padding: 10px 30px;
+    border-radius: 20px;
+    color: aliceblue;
+    background-color: rgb(71, 135, 71);
+    border: none;
+    margin-top: 10px;
+}
+#btn:hover{
+    background:burlywood;
+}
+#billamt{
+    margin-left: 130px;
+}
+input[type=number]{
+    margin-left: 40px;
+    margin-bottom: 20px;
+    border-radius: 50px;
+
+}
